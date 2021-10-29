@@ -7,3 +7,4 @@
 - Bottom Tabs Navigator
 - Material Bottom Tabs Navigator
 - Material Top Tabs Navigator
+- Context y estado global de la aplicación
